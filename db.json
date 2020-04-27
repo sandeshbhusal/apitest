@@ -3,71 +3,76 @@
         {
             "id": 1,
             "name": "Section 1",
-            "imageUrl": "https://avatars1.githubusercontent.com/u/13704969?s=60&u=79d1452b213937673d72b38b2bc13f116ed1a232&v=4"
+            "imageUrl": "https://www.gettyimages.com/gi-resources/images/500px/983794168.jpg"
         },
         {
             "id": 2,
             "name": "Section 2",
-            "imageUrl": "https://avatars1.githubusercontent.com/u/13704969?s=60&u=79d1452b213937673d72b38b2bc13f116ed1a232&v=4"
+            "imageUrl": "https://www.gettyimages.com/gi-resources/images/500px/983794168.jpg"
         },
         {
             "id": 3,
             "name": "Section 3",
-            "imageUrl": "https://avatars1.githubusercontent.com/u/13704969?s=60&u=79d1452b213937673d72b38b2bc13f116ed1a232&v=4"
+            "imageUrl": "https://www.gettyimages.com/gi-resources/images/500px/983794168.jpg"
         }
     ],
     "topics": [
         {
             "id": 1,
             "name": "Section 1 Topic 1",
-            "sectionId": 1
+            "sectionId": 1,
+            "imageUrl": "https://cdn.eso.org/images/thumb300y/eso1907a.jpg"
         },
 
         {
             "id": 2,
             "name": "Section 2 Topic 1",
-            "sectionId": 1
+            "sectionId": 1,
+            "imageUrl": "https://cdn.eso.org/images/thumb300y/eso1907a.jpg"
         },
 
         {
             "id": 3,
             "name": "Section 1 Topic 2",
-            "sectionId": 2
+            "sectionId": 2,
+            "imageUrl": "https://cdn.eso.org/images/thumb300y/eso1907a.jpg"
         },
 
         {
             "id": 3,
             "name": "Section 1 Topic 3",
-            "sectionId": 3
+            "sectionId": 3,
+            "imageUrl": "https://cdn.eso.org/images/thumb300y/eso1907a.jpg"
         }
     ],
     "files":[
         {
             "id": 1,
             "name": "Section 1 Topic 1 File",
-            "imageUrl": "asdf",
-            "sectionId": 1
+            "sectionId": 1,
+            "imageUrl": "https://s.ftcdn.net/v2013/pics/all/curated/RKyaEDwp8J7JKeZWQPuOVWvkUjGQfpCx_cover_580.jpg?r=1a0fc22192d0c808b8bb2b9bcfbf4a45b1793687"
         },
 
         {
             "id": 2,
             "name": "Section 1 Topic 2 File",
-            "imageUrl": "asdf",
-            "sectionId": 1
+            "sectionId": 1,
+            "imageUrl": "https://s.ftcdn.net/v2013/pics/all/curated/RKyaEDwp8J7JKeZWQPuOVWvkUjGQfpCx_cover_580.jpg?r=1a0fc22192d0c808b8bb2b9bcfbf4a45b1793687"
         },
 
         {
             "id": 3,
             "name": "Section 2 Topic 1 File",
-            "imageUrl": "asdf",
-            "sectionId": 1
+            "sectionId": 1,
+            "imageUrl": "https://s.ftcdn.net/v2013/pics/all/curated/RKyaEDwp8J7JKeZWQPuOVWvkUjGQfpCx_cover_580.jpg?r=1a0fc22192d0c808b8bb2b9bcfbf4a45b1793687"
         },
 
         {
             "id": 4,
             "name": "Section 3 Topic 1 File",
             "imageUrl": "asdf",
-            "sectionId": 1
+            "sectionId": 1,
+            "imageUrl": "https://s.ftcdn.net/v2013/pics/all/curated/RKyaEDwp8J7JKeZWQPuOVWvkUjGQfpCx_cover_580.jpg?r=1a0fc22192d0c808b8bb2b9bcfbf4a45b1793687"
         }
     ]
 }
