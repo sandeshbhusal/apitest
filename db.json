@@ -1,0 +1,73 @@
+{
+    "sections": [
+        {
+            "id": 1,
+            "name": "Section 1",
+            "imageUrl": "https://avatars1.githubusercontent.com/u/13704969?s=60&u=79d1452b213937673d72b38b2bc13f116ed1a232&v=4"
+        },
+        {
+            "id": 2,
+            "name": "Section 2",
+            "imageUrl": "https://avatars1.githubusercontent.com/u/13704969?s=60&u=79d1452b213937673d72b38b2bc13f116ed1a232&v=4"
+        },
+        {
+            "id": 3,
+            "name": "Section 3",
+            "imageUrl": "https://avatars1.githubusercontent.com/u/13704969?s=60&u=79d1452b213937673d72b38b2bc13f116ed1a232&v=4"
+        }
+    ],
+    "topics": [
+        {
+            "id": 1,
+            "name": "Section 1 Topic 1",
+            "sectionId": 1
+        },
+
+        {
+            "id": 2,
+            "name": "Section 2 Topic 1",
+            "sectionId": 1
+        },
+
+        {
+            "id": 3,
+            "name": "Section 1 Topic 2",
+            "sectionId": 2
+        },
+
+        {
+            "id": 3,
+            "name": "Section 1 Topic 3",
+            "sectionId": 3
+        }
+    ],
+    "files":[
+        {
+            "id": 1,
+            "name": "Section 1 Topic 1 File",
+            "imageUrl": "asdf",
+            "sectionId": 1
+        },
+
+        {
+            "id": 2,
+            "name": "Section 1 Topic 2 File",
+            "imageUrl": "asdf",
+            "sectionId": 1
+        },
+
+        {
+            "id": 3,
+            "name": "Section 2 Topic 1 File",
+            "imageUrl": "asdf",
+            "sectionId": 1
+        },
+
+        {
+            "id": 4,
+            "name": "Section 3 Topic 1 File",
+            "imageUrl": "asdf",
+            "sectionId": 1
+        }
+    ]
+}
