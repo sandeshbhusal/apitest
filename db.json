@@ -21,58 +21,53 @@
             "id": 1,
             "name": "Section 1 Topic 1",
             "sectionId": 1,
-            "imageUrl": "https://cdn.eso.org/images/thumb300y/eso1907a.jpg"
+            "imageUrl": "https://cdn.eso.org/images/thumb300y/eso1907a.jpg",
+            "fileId": 59
         },
 
         {
             "id": 2,
             "name": "Section 2 Topic 1",
             "sectionId": 1,
-            "imageUrl": "https://cdn.eso.org/images/thumb300y/eso1907a.jpg"
+            "imageUrl": "https://cdn.eso.org/images/thumb300y/eso1907a.jpg",
+            "fileId": 30
         },
 
         {
             "id": 3,
             "name": "Section 1 Topic 2",
             "sectionId": 2,
-            "imageUrl": "https://cdn.eso.org/images/thumb300y/eso1907a.jpg"
+            "imageUrl": "https://cdn.eso.org/images/thumb300y/eso1907a.jpg",
+            "fileId": 28
         },
 
         {
             "id": 3,
             "name": "Section 1 Topic 3",
             "sectionId": 3,
-            "imageUrl": "https://cdn.eso.org/images/thumb300y/eso1907a.jpg"
+            "imageUrl": "https://cdn.eso.org/images/thumb300y/eso1907a.jpg",
+            "fileId": 32
         }
     ],
     "files":[
         {
             "id": 1,
-            "name": "Section 1 Topic 1 File",
-            "sectionId": 1,
-            "imageUrl": "https://s.ftcdn.net/v2013/pics/all/curated/RKyaEDwp8J7JKeZWQPuOVWvkUjGQfpCx_cover_580.jpg?r=1a0fc22192d0c808b8bb2b9bcfbf4a45b1793687"
+            "fileUrl": "https://s.ftcdn.net/v2013/pics/all/curated/RKyaEDwp8J7JKeZWQPuOVWvkUjGQfpCx_cover_580.jpg?r=1a0fc22192d0c808b8bb2b9bcfbf4a45b1793687"
         },
 
         {
             "id": 2,
-            "name": "Section 1 Topic 2 File",
-            "sectionId": 1,
-            "imageUrl": "https://s.ftcdn.net/v2013/pics/all/curated/RKyaEDwp8J7JKeZWQPuOVWvkUjGQfpCx_cover_580.jpg?r=1a0fc22192d0c808b8bb2b9bcfbf4a45b1793687"
+            "fileUrl": "https://s.ftcdn.net/v2013/pics/all/curated/RKyaEDwp8J7JKeZWQPuOVWvkUjGQfpCx_cover_580.jpg?r=1a0fc22192d0c808b8bb2b9bcfbf4a45b1793687"
         },
 
         {
             "id": 3,
-            "name": "Section 2 Topic 1 File",
-            "sectionId": 1,
-            "imageUrl": "https://s.ftcdn.net/v2013/pics/all/curated/RKyaEDwp8J7JKeZWQPuOVWvkUjGQfpCx_cover_580.jpg?r=1a0fc22192d0c808b8bb2b9bcfbf4a45b1793687"
+            "fileUrl": "https://s.ftcdn.net/v2013/pics/all/curated/RKyaEDwp8J7JKeZWQPuOVWvkUjGQfpCx_cover_580.jpg?r=1a0fc22192d0c808b8bb2b9bcfbf4a45b1793687"
         },
 
         {
             "id": 4,
-            "name": "Section 3 Topic 1 File",
-            "imageUrl": "asdf",
-            "sectionId": 1,
-            "imageUrl": "https://s.ftcdn.net/v2013/pics/all/curated/RKyaEDwp8J7JKeZWQPuOVWvkUjGQfpCx_cover_580.jpg?r=1a0fc22192d0c808b8bb2b9bcfbf4a45b1793687"
+            "fileUrl": "https://s.ftcdn.net/v2013/pics/all/curated/RKyaEDwp8J7JKeZWQPuOVWvkUjGQfpCx_cover_580.jpg?r=1a0fc22192d0c808b8bb2b9bcfbf4a45b1793687"
         }
     ]
 }
