@@ -2,12 +2,12 @@
     "sections": [
         {
             "id": 1,
-            "name": "Section 1",
+            "name": "General Pharmacology",
             "imageUrl": "https://www.gettyimages.com/gi-resources/images/500px/983794168.jpg"
         },
         {
             "id": 2,
-            "name": "Section 2",
+            "name": "Chemotherapy",
             "imageUrl": "https://www.gettyimages.com/gi-resources/images/500px/983794168.jpg"
         },
         {
