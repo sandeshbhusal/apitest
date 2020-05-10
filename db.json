@@ -19,39 +19,39 @@
     "topics": [
         {
             "id": 1,
-            "name": "Section 1 Topic 1",
+            "name": "General Pharmacology",
             "sectionId": 1,
-            "imageUrl": "https://cdn.britannica.com/68/140268-050-35135B56/view-human-muscular-system.jpg",
-            "fileId": 1
+            "imageUrl": "https://www.windsor.edu/wp-content/uploads/2018/07/studying-pharmacology-1109x675.jpg",
+            "fileId": 102
         },
 
         {
             "id": 2,
-            "name": "Section 2 Topic 1",
+            "name": "Terminologies",
             "sectionId": 1,
-            "imageUrl": "https://www.healthline.com/hlcmsresource/images/bm_images/muscular1.jpg",
+            "imageUrl": "https://www.languageconsultancyservices.com/transimg/ter.jpg",
             "fileId": 30
         },
 
         {
             "id": 3,
-            "name": "Section 1 Topic 2",
+            "name": "Chemotherapy",
             "sectionId": 2,
-            "imageUrl": "https://cdn.eso.org/images/thumb300y/eso1907a.jpg",
+            "imageUrl": "https://media4.s-nbcnews.com/i/newscms/2018_25/2474351/180621-chemotherapy-al-1126_a08d3eddfabcf47575e93bd0e90302ef.jpg",
             "fileId": 28
         },
 
         {
             "id": 3,
-            "name": "Section 1 Topic 3",
+            "name": "Autacoids",
             "sectionId": 3,
-            "imageUrl": "https://cdn.eso.org/images/thumb300y/eso1907a.jpg",
+            "imageUrl": "https://s3.amazonaws.com/tinycards/image/65308c9524b04f39a3c094c0fa6a7f03",
             "fileId": 32
         }
     ],
     "files":[
         {
-            "id": 1,
+            "id": 102,
             "fileUrl": "https://s.ftcdn.net/v2013/pics/all/curated/RKyaEDwp8J7JKeZWQPuOVWvkUjGQfpCx_cover_580.jpg?r=1a0fc22192d0c808b8bb2b9bcfbf4a45b1793687"
         },
 
